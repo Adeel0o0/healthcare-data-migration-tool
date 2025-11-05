@@ -1,0 +1,3922 @@
+[
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT79803",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT79803"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN191584"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Scott",
+        "given": [
+          "Amanda",
+          "I"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1963-04-16",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "7757 Willow Street",
+          "Apt 120"
+        ],
+        "city": "Burlington",
+        "state": "AR",
+        "postalCode": "53841",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "234-657-8077",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT47163",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT47163"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN428628"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Martinez",
+        "given": [
+          "Barbara"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1985-09-10",
+    "deceasedBoolean": true,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "8837 Highland Avenue"
+        ],
+        "city": "Springfield",
+        "state": "CT",
+        "postalCode": "22902",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "322-667-3268",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "barbara.martinez206@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT71428",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT71428"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN448451"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Anderson",
+        "given": [
+          "Elizabeth",
+          "F"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "2005-10-06",
+    "deceasedBoolean": true,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9264 Washington Street",
+          "Apt 977"
+        ],
+        "city": "Bristol",
+        "state": "ID",
+        "postalCode": "38317",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "455-736-4751",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "elizabeth.anderson503@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT42594",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT42594"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN583149"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Green",
+        "given": [
+          "Michael"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1961-11-14",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9157 Washington Street"
+        ],
+        "city": "Clinton",
+        "state": "ME",
+        "postalCode": "29314",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "320-284-6170",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "michael.green990@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT38815",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT38815"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN600628"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Thompson",
+        "given": [
+          "Linda"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1937-06-14",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2612 Elm Street",
+          "Apt 725"
+        ],
+        "city": "Plainfield",
+        "state": "MO",
+        "postalCode": "63395",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "725-354-8325",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "linda.thompson849@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT75925",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT75925"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN836913"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Torres",
+        "given": [
+          "Andrew"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1951-05-14",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4870 Washington Street"
+        ],
+        "city": "Newport",
+        "state": "GA",
+        "postalCode": "35566",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "384-801-5633",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "andrew.torres754@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT25781",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT25781"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN545178"
+      }
+    ],
+    "active": false,
+    "name": [
+      {
+        "use": "official",
+        "family": "Green",
+        "given": [
+          "Patricia",
+          "Y"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1938-02-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "3766 Meadow Lane"
+        ],
+        "city": "Bristol",
+        "state": "AL",
+        "postalCode": "87933",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "472-917-7119",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT12410",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT12410"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN225642"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Hernandez",
+        "given": [
+          "Robert"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1950-11-20",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9441 Willow Street",
+          "Apt 470"
+        ],
+        "city": "Winchester",
+        "state": "HI",
+        "postalCode": "86754",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "904-521-7013",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "robert.hernandez549@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT30668",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT30668"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN792080"
+      }
+    ],
+    "active": false,
+    "name": [
+      {
+        "use": "official",
+        "family": "Robinson",
+        "given": [
+          "Robert"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1940-08-11",
+    "deceasedBoolean": true,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1571 Oak Street",
+          "Apt 176"
+        ],
+        "city": "Burlington",
+        "state": "AR",
+        "postalCode": "92763",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "863-215-9760",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "robert.robinson408@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT80510",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT80510"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN595680"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Hill",
+        "given": [
+          "Stephanie",
+          "W"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1997-05-06",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "7452 River Road"
+        ],
+        "city": "Franklin",
+        "state": "AR",
+        "postalCode": "12054",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "407-572-2086",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT73869",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT73869"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN604296"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Young",
+        "given": [
+          "Jessica"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1981-01-20",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2437 Willow Street",
+          "Apt 795"
+        ],
+        "city": "Arlington",
+        "state": "AR",
+        "postalCode": "90456",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "694-365-7393",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT16924",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT16924"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN749960"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Jones",
+        "given": [
+          "John",
+          "Z"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1986-11-30",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "6139 Meadow Lane"
+        ],
+        "city": "Winchester",
+        "state": "MN",
+        "postalCode": "98635",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "545-690-1585",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "john.jones396@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT36741",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT36741"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN985544"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Johnson",
+        "given": [
+          "Jennifer",
+          "W"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1988-01-16",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2973 Main Street"
+        ],
+        "city": "Arlington",
+        "state": "HI",
+        "postalCode": "95132",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "249-238-2984",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT83827",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT83827"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN519016"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Smith",
+        "given": [
+          "Amy",
+          "U"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1942-08-19",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "3773 Lake Drive",
+          "Apt 860"
+        ],
+        "city": "Clinton",
+        "state": "GA",
+        "postalCode": "53537",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "541-444-1870",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "amy.smith711@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT46602",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT46602"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN212040"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Garcia",
+        "given": [
+          "Sarah",
+          "Q"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1967-02-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "5511 Hillside Drive"
+        ],
+        "city": "Salem",
+        "state": "KY",
+        "postalCode": "59160",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "227-498-3067",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "sarah.garcia905@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT62808",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT62808"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN615900"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Thomas",
+        "given": [
+          "Linda",
+          "P"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "2002-08-28",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1096 Ridge Road",
+          "Apt 952"
+        ],
+        "city": "Kingston",
+        "state": "AL",
+        "postalCode": "12829",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "368-950-6126",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "linda.thomas990@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT45349",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT45349"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN560390"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Perez",
+        "given": [
+          "Daniel",
+          "L"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "2004-03-21",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "5009 Pine Street"
+        ],
+        "city": "Westport",
+        "state": "HI",
+        "postalCode": "15787",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "639-347-9266",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT31815",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT31815"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN355672"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Young",
+        "given": [
+          "William",
+          "Z"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1950-08-18",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "7618 Elm Street"
+        ],
+        "city": "Bristol",
+        "state": "AZ",
+        "postalCode": "96186",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "789-963-3177",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT10338",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT10338"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN691566"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Miller",
+        "given": [
+          "Patricia",
+          "J"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1971-08-07",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4776 Oak Street"
+        ],
+        "city": "Ashland",
+        "state": "KS",
+        "postalCode": "58207",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "381-676-8761",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "patricia.miller352@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT42426",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT42426"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN962104"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Hernandez",
+        "given": [
+          "Michelle"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1941-11-24",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2168 Cedar Avenue"
+        ],
+        "city": "Winchester",
+        "state": "IA",
+        "postalCode": "97431",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "956-711-6222",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT24798",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT24798"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN999499"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Jackson",
+        "given": [
+          "Andrew",
+          "E"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1953-06-17",
+    "deceasedBoolean": true,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2513 Lake Drive",
+          "Apt 686"
+        ],
+        "city": "Winchester",
+        "state": "CT",
+        "postalCode": "11891",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "301-919-5564",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "andrew.jackson168@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT53996",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT53996"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN745403"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Martinez",
+        "given": [
+          "Rebecca",
+          "A"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1962-02-10",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9305 Woodland Drive"
+        ],
+        "city": "Greenville",
+        "state": "CA",
+        "postalCode": "23703",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "621-326-2483",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "rebecca.martinez923@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT13238",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT13238"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN622734"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "White",
+        "given": [
+          "Andrew"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1987-06-12",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2003 Main Street"
+        ],
+        "city": "Marion",
+        "state": "AK",
+        "postalCode": "67586",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "331-499-8653",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "andrew.white174@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT43453",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT43453"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN457561"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Wilson",
+        "given": [
+          "James"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1974-07-17",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "3864 Park Avenue",
+          "Apt 69"
+        ],
+        "city": "Greenville",
+        "state": "CO",
+        "postalCode": "91315",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "940-226-6639",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "james.wilson248@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT93794",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT93794"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN832431"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Martinez",
+        "given": [
+          "James"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1968-11-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4800 Washington Street"
+        ],
+        "city": "Manchester",
+        "state": "AZ",
+        "postalCode": "90602",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "833-576-6986",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT91975",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT91975"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN294372"
+      }
+    ],
+    "active": false,
+    "name": [
+      {
+        "use": "official",
+        "family": "Jones",
+        "given": [
+          "Anthony",
+          "Z"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1942-05-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4371 Cedar Avenue",
+          "Apt 62"
+        ],
+        "city": "Riverside",
+        "state": "LA",
+        "postalCode": "93581",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "995-346-6728",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "anthony.jones364@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT95842",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT95842"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN344019"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Wright",
+        "given": [
+          "Amy",
+          "M"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1972-07-21",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9319 Woodland Drive",
+          "Apt 55"
+        ],
+        "city": "Oakland",
+        "state": "CA",
+        "postalCode": "82930",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "265-641-6877",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT80468",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT80468"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN586069"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Ramirez",
+        "given": [
+          "Amy",
+          "M"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1989-04-20",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "5893 Forest Avenue",
+          "Apt 566"
+        ],
+        "city": "Arlington",
+        "state": "MN",
+        "postalCode": "56212",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "847-353-4068",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT88345",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT88345"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN645037"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Rodriguez",
+        "given": [
+          "Barbara",
+          "J"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1946-09-04",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1693 Broadway"
+        ],
+        "city": "Westport",
+        "state": "MI",
+        "postalCode": "71768",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "800-232-9479",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "barbara.rodriguez924@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT45057",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT45057"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN498192"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Brown",
+        "given": [
+          "Christopher",
+          "V"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1995-09-24",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "9732 Church Street",
+          "Apt 463"
+        ],
+        "city": "Centerville",
+        "state": "FL",
+        "postalCode": "81597",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "631-655-3696",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "christopher.brown226@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT37590",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT37590"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN195279"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Flores",
+        "given": [
+          "Christopher",
+          "P"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1996-06-07",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1725 Broadway"
+        ],
+        "city": "Lebanon",
+        "state": "ID",
+        "postalCode": "16282",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "933-905-1812",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "christopher.flores328@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT71266",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT71266"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN862649"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Smith",
+        "given": [
+          "Stephanie",
+          "U"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1965-07-30",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "5021 Sunset Drive"
+        ],
+        "city": "Salem",
+        "state": "IN",
+        "postalCode": "14752",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "629-660-8986",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT63365",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT63365"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN233425"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Wright",
+        "given": [
+          "Patricia"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1949-06-12",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1963 Ridge Road"
+        ],
+        "city": "Lebanon",
+        "state": "FL",
+        "postalCode": "96214",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "727-461-7790",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT69715",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT69715"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN283244"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Taylor",
+        "given": [
+          "Mary",
+          "I"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1990-09-24",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "5915 Willow Street",
+          "Apt 195"
+        ],
+        "city": "Georgetown",
+        "state": "IA",
+        "postalCode": "34615",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "543-759-3668",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT27765",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT27765"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN809627"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "King",
+        "given": [
+          "Daniel",
+          "P"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1958-02-13",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "6649 Ridge Road"
+        ],
+        "city": "Riverside",
+        "state": "ME",
+        "postalCode": "80384",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "202-600-2996",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT80492",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT80492"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN695339"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Torres",
+        "given": [
+          "Amy",
+          "W"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1967-12-27",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1874 Willow Street"
+        ],
+        "city": "Salem",
+        "state": "HI",
+        "postalCode": "28770",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "340-974-4514",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "amy.torres91@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT95831",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT95831"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN834926"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Allen",
+        "given": [
+          "Melissa",
+          "Y"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "2002-10-15",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2450 Meadow Lane",
+          "Apt 289"
+        ],
+        "city": "Oakland",
+        "state": "MN",
+        "postalCode": "52470",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "367-961-8380",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "melissa.allen586@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT22627",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT22627"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN411254"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Green",
+        "given": [
+          "Kathleen"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1981-08-10",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "7553 Ridge Road",
+          "Apt 371"
+        ],
+        "city": "Milton",
+        "state": "LA",
+        "postalCode": "79245",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "937-487-3090",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "kathleen.green903@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT92120",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT92120"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN551494"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Davis",
+        "given": [
+          "Anthony",
+          "M"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1947-01-15",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4918 Ridge Road"
+        ],
+        "city": "Ashland",
+        "state": "AK",
+        "postalCode": "47591",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "204-262-9384",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT82524",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT82524"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN264125"
+      }
+    ],
+    "active": false,
+    "name": [
+      {
+        "use": "official",
+        "family": "Gonzales",
+        "given": [
+          "Mary"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "2006-04-05",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2285 Elm Street",
+          "Apt 456"
+        ],
+        "city": "Burlington",
+        "state": "IN",
+        "postalCode": "30105",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "555-470-2998",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "mary.gonzales659@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT96463",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT96463"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN975135"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Williams",
+        "given": [
+          "Christopher",
+          "M"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1977-05-19",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "6605 Park Avenue"
+        ],
+        "city": "Greenville",
+        "state": "ID",
+        "postalCode": "67808",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "390-547-8177",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "christopher.williams102@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT30991",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT30991"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN342314"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Martin",
+        "given": [
+          "Kathleen",
+          "O"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "2007-11-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "6714 Valley View Drive",
+          "Apt 204"
+        ],
+        "city": "Winchester",
+        "state": "MI",
+        "postalCode": "93130",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "292-210-6344",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT41937",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT41937"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN211202"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Rodriguez",
+        "given": [
+          "Thomas",
+          "G"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "2001-12-18",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "2563 Sunset Drive"
+        ],
+        "city": "Lebanon",
+        "state": "ME",
+        "postalCode": "84339",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "450-607-4451",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "thomas.rodriguez737@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "fr",
+              "display": "French"
+            }
+          ],
+          "text": "French"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT74300",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT74300"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN113871"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Johnson",
+        "given": [
+          "Cynthia",
+          "M"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1970-01-09",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1658 Washington Street"
+        ],
+        "city": "Oakland",
+        "state": "MA",
+        "postalCode": "23019",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "603-845-8986",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "cynthia.johnson216@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT24926",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT24926"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN610534"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "White",
+        "given": [
+          "Cynthia"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1976-06-20",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1274 Meadow Lane"
+        ],
+        "city": "Salem",
+        "state": "KY",
+        "postalCode": "40126",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "610-613-5333",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "cynthia.white431@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT34701",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT34701"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN275879"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Scott",
+        "given": [
+          "Andrew",
+          "B"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1993-10-31",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "7763 Cedar Avenue",
+          "Apt 839"
+        ],
+        "city": "Springfield",
+        "state": "MS",
+        "postalCode": "74128",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "230-928-5402",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT15019",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT15019"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN654242"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Moore",
+        "given": [
+          "Karen"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1939-05-12",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "1917 River Road"
+        ],
+        "city": "Oakland",
+        "state": "CA",
+        "postalCode": "74068",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "927-748-6303",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT28014",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT28014"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN710131"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Wright",
+        "given": [
+          "Cynthia"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1977-12-18",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "3194 Maple Avenue",
+          "Apt 894"
+        ],
+        "city": "Manchester",
+        "state": "CT",
+        "postalCode": "90498",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "270-823-9164",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "es",
+              "display": "Spanish"
+            }
+          ],
+          "text": "Spanish"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT39273",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT39273"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN469703"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Martin",
+        "given": [
+          "David",
+          "J"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1986-01-21",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "4750 Pine Street"
+        ],
+        "city": "Bristol",
+        "state": "CO",
+        "postalCode": "45403",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "679-432-2814",
+        "use": "home"
+      },
+      {
+        "system": "email",
+        "value": "david.martin424@example.com"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "zh",
+              "display": "Chinese"
+            }
+          ],
+          "text": "Chinese"
+        },
+        "preferred": true
+      }
+    ]
+  },
+  {
+    "resourceType": "Patient",
+    "id": "Patient-PT27692",
+    "meta": {
+      "profile": [
+        "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+      ]
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:legacy_ehr",
+        "value": "PT27692"
+      },
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ]
+        },
+        "value": "MRN973303"
+      }
+    ],
+    "active": true,
+    "name": [
+      {
+        "use": "official",
+        "family": "Lewis",
+        "given": [
+          "Sarah",
+          "Y"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1974-09-10",
+    "deceasedBoolean": false,
+    "address": [
+      {
+        "use": "home",
+        "line": [
+          "6353 Broadway"
+        ],
+        "city": "Salem",
+        "state": "MI",
+        "postalCode": "92703",
+        "country": "USA"
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "525-489-5002",
+        "use": "home"
+      }
+    ],
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "en",
+              "display": "English"
+            }
+          ],
+          "text": "English"
+        },
+        "preferred": true
+      }
+    ]
+  }
+]

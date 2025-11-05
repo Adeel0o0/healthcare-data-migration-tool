@@ -1,0 +1,182 @@
+2025-11-05 23:10:02,404 - fhir_validator - INFO - Created output directory: ./validation_results
+2025-11-05 23:10:02,404 - fhir_validator - INFO - Starting validation of all FHIR resources
+2025-11-05 23:10:02,405 - fhir_validator - INFO - Loaded 50 Patient resources from ./fhir_data/Patient.json
+2025-11-05 23:10:02,407 - fhir_validator - INFO - Loaded 275 Encounter resources from ./fhir_data/Encounter.json
+2025-11-05 23:10:02,420 - fhir_validator - INFO - Loaded 1355 Observation resources from ./fhir_data/Observation.json
+2025-11-05 23:10:02,423 - fhir_validator - INFO - Loaded 403 MedicationRequest resources from ./fhir_data/MedicationRequest.json
+2025-11-05 23:10:02,439 - fhir_validator - INFO - Validating 100 Patient resources
+2025-11-05 23:10:02,440 - fhir_validator - INFO - Validating 550 Encounter resources
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC243046: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC513368: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC293216: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC415252: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC143740: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC437670: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC252610: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC890110: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC962644: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC627299: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC281751: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC862285: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC482191: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC152361: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC706890: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC226017: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC178338: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC306637: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC479144: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC159560: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC566955: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC334653: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC773265: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC459724: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,440 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC441208: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC798588: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC510557: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC710096: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC690830: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC380467: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC613044: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC829539: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC901100: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC975573: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC656338: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC501741: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC949490: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC117069: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC774232: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC745153: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC253248: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC985591: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC721141: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC997779: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC496521: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC887849: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC442572: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC980109: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC444650: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,441 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC314805: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC735693: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC404496: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC538698: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC163292: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC165667: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC102359: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC415398: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC554048: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC747407: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC404429: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC752837: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC784397: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC975981: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC985084: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC802945: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC845258: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC510911: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC560396: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC181195: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC487147: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC600725: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC960727: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC494185: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC582852: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC766506: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC936130: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC803154: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC825528: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC453534: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC243046: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC513368: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC293216: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC415252: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,442 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC143740: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC437670: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC252610: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC890110: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC962644: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC627299: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC281751: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC862285: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC482191: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC152361: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC706890: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC226017: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC178338: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC306637: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC479144: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC159560: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC566955: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC334653: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC773265: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC459724: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC441208: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC798588: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC510557: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC710096: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC690830: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,443 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC380467: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,446 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC613044: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,446 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC829539: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,446 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC901100: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,446 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC975573: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,446 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC656338: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,447 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC501741: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,447 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC949490: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC117069: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC774232: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC745153: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC253248: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC985591: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC721141: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC997779: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,448 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC496521: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC887849: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC442572: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC980109: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC444650: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC314805: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC735693: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC404496: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC538698: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC163292: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,449 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC165667: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC102359: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC415398: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC554048: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC747407: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC404429: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC752837: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC784397: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC975981: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC985084: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC802945: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC845258: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,450 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC510911: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,451 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC560396: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,451 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC181195: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,451 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC487147: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,451 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC600725: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,452 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC960727: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,452 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC494185: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,452 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC582852: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,452 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC766506: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,453 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC936130: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,453 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC803154: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,453 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC825528: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,453 - fhir_validator - WARNING - Invalid Encounter/Encounter-ENC453534: Invalid status: entered-in-error. Must be one of: planned, arrived, triaged, in-progress, onleave, finished, cancelled
+2025-11-05 23:10:02,453 - fhir_validator - INFO - Validating 2710 Observation resources
+2025-11-05 23:10:02,466 - fhir_validator - INFO - Validating 806 MedicationRequest resources
+2025-11-05 23:10:02,469 - fhir_validator - INFO - Validation completed: 4166 resources validated, 158 errors, 0 warnings
+2025-11-05 23:10:02,472 - fhir_validator - INFO - Starting cross-validation between resources
+2025-11-05 23:10:02,473 - fhir_validator - INFO - Loaded 50 Patient resources from ./fhir_data/Patient.json
+2025-11-05 23:10:02,475 - fhir_validator - INFO - Loaded 275 Encounter resources from ./fhir_data/Encounter.json
+2025-11-05 23:10:02,483 - fhir_validator - INFO - Loaded 1355 Observation resources from ./fhir_data/Observation.json
+2025-11-05 23:10:02,485 - fhir_validator - INFO - Loaded 403 MedicationRequest resources from ./fhir_data/MedicationRequest.json
+2025-11-05 23:10:02,506 - fhir_validator - INFO - Cross-validating references in 100 Patient resources
+2025-11-05 23:10:02,506 - fhir_validator - INFO - Cross-validating references in 550 Encounter resources
+2025-11-05 23:10:02,511 - fhir_validator - INFO - Cross-validating references in 2710 Observation resources
+2025-11-05 23:10:02,646 - fhir_validator - INFO - Cross-validating references in 806 MedicationRequest resources
+2025-11-05 23:10:02,709 - fhir_validator - INFO - Cross-validation completed
+2025-11-05 23:10:02,735 - fhir_validator - INFO - Saved validation results to ./validation_results/validation_results.json
+2025-11-05 23:10:02,736 - fhir_validator - INFO - Saved validation summary to ./validation_results/validation_summary.txt
+2025-11-05 23:10:02,737 - fhir_validator - WARNING - Some resources are invalid

@@ -1,0 +1,24 @@
+2025-11-05 23:09:15,896 - ehr_extractor - INFO - Created output directory: ./extracted_data
+2025-11-05 23:09:15,896 - ehr_extractor - INFO - Initializing connection to file EHR system
+2025-11-05 23:09:15,896 - ehr_extractor - INFO - Successfully connected to file-based EHR data in ./legacy_ehr_data
+2025-11-05 23:09:15,896 - ehr_extractor - INFO - Starting extraction of all data from file
+2025-11-05 23:09:15,896 - ehr_extractor - INFO - Extracting patients from file
+2025-11-05 23:09:15,897 - ehr_extractor - INFO - Loaded 50 patients from ./legacy_ehr_data/patients.json
+2025-11-05 23:09:15,897 - ehr_extractor - INFO - Extracted 50 patients after filtering
+2025-11-05 23:09:15,897 - ehr_extractor - INFO - Extracting encounters from file
+2025-11-05 23:09:15,897 - ehr_extractor - INFO - Filtering encounters for 50 patients
+2025-11-05 23:09:15,898 - ehr_extractor - INFO - Loaded 275 encounters from ./legacy_ehr_data/encounters.json
+2025-11-05 23:09:15,898 - ehr_extractor - INFO - Extracted 275 encounters after filtering
+2025-11-05 23:09:15,898 - ehr_extractor - INFO - Extracting observations from file
+2025-11-05 23:09:15,900 - ehr_extractor - INFO - Loaded 731 observations from ./legacy_ehr_data/observations.json
+2025-11-05 23:09:15,901 - ehr_extractor - INFO - Extracted 731 observations after filtering
+2025-11-05 23:09:15,901 - ehr_extractor - INFO - Extracting medications from file
+2025-11-05 23:09:15,902 - ehr_extractor - INFO - Loaded 403 medications from ./legacy_ehr_data/medications.json
+2025-11-05 23:09:15,903 - ehr_extractor - INFO - Extracted 403 medications after filtering
+2025-11-05 23:09:15,903 - ehr_extractor - INFO - Extracted 50 patients, 275 encounters, 731 observations, and 403 medications
+2025-11-05 23:09:15,904 - ehr_extractor - INFO - Saved 50 patients to ./extracted_data/patients.json
+2025-11-05 23:09:15,909 - ehr_extractor - INFO - Saved 275 encounters to ./extracted_data/encounters.json
+2025-11-05 23:09:15,922 - ehr_extractor - INFO - Saved 731 observations to ./extracted_data/observations.json
+2025-11-05 23:09:15,925 - ehr_extractor - INFO - Saved 403 medications to ./extracted_data/medications.json
+2025-11-05 23:09:15,925 - ehr_extractor - INFO - Saved extraction metadata to ./extracted_data/extraction_metadata.json
+2025-11-05 23:09:15,925 - ehr_extractor - INFO - Extraction completed successfully

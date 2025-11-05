@@ -1,0 +1,7292 @@
+[
+  {
+    "encounter_id": "ENC104080",
+    "patient_id": "PT79803",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar738",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-07-29",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC232208",
+    "patient_id": "PT79803",
+    "type": "Follow-up",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVPat345",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-07-18",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC837085",
+    "patient_id": "PT79803",
+    "type": "Office Visit",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav241",
+      "name": "Dr. David Kim",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-03-14",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-03-14",
+    "notes": "Patient presented with Abdominal pain. Examination performed. Diagnosed with Sinusitis. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC513179",
+    "patient_id": "PT79803",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVTho105",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-09-19",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2024-09-19",
+    "notes": "Patient presented with Headache. Examination performed. Diagnosed with Type 2 Diabetes. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC243046",
+    "patient_id": "PT79803",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam595",
+      "name": "Dr. James Wilson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-08-12",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC706015",
+    "patient_id": "PT79803",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJos923",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-02-11",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-02-13",
+    "notes": "Patient presented with Sore throat. Examination performed. Diagnosed with Osteoarthritis. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC513368",
+    "patient_id": "PT79803",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMar560",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-08-12",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC146214",
+    "patient_id": "PT47163",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi623",
+      "name": "Dr. Emily Clark",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-08-19",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2024-08-20",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Sinusitis. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC293216",
+    "patient_id": "PT47163",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus416",
+      "name": "Dr. Susan Davis",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-03-04",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC101619",
+    "patient_id": "PT47163",
+    "type": "Office Visit",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic444",
+      "name": "Dr. Richard Lee",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2023-11-12",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2023-11-12",
+    "notes": "Patient presented with Back pain. Examination performed. Diagnosed with Low Back Pain. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC436552",
+    "patient_id": "PT47163",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVSar845",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-07-20",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-07-29",
+    "notes": "Patient presented with Nausea. Examination performed. Diagnosed with GERD. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC415252",
+    "patient_id": "PT47163",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEli729",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-11-01",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC183847",
+    "patient_id": "PT47163",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob103",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-02-07",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC503966",
+    "patient_id": "PT47163",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav225",
+      "name": "Dr. David Kim",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2023-12-25",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2023-12-25",
+    "notes": "Patient presented with Abdominal pain. Examination performed. Diagnosed with Acute Upper Respiratory Infection. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC165956",
+    "patient_id": "PT71428",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen885",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-04-19",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC698645",
+    "patient_id": "PT71428",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEli284",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-05-01",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC143740",
+    "patient_id": "PT71428",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMic381",
+      "name": "Dr. Michael Chen",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-07-30",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC351286",
+    "patient_id": "PT71428",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil222",
+      "name": "Dr. William Thompson",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-09-11",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC200547",
+    "patient_id": "PT42594",
+    "type": "Hospital Encounter",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic392",
+      "name": "Dr. Richard Lee",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-08-03",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC437670",
+    "patient_id": "PT42594",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVLis949",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-05-24",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC608369",
+    "patient_id": "PT42594",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVPat624",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-12-29",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC396552",
+    "patient_id": "PT42594",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRob757",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-08-21",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2025-08-29",
+    "notes": "Patient presented with Back pain. Examination performed. Diagnosed with Hyperlipidemia. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC252610",
+    "patient_id": "PT42594",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic363",
+      "name": "Dr. Richard Lee",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-08-13",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC428040",
+    "patient_id": "PT42594",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSus411",
+      "name": "Dr. Susan Davis",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-12-09",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC517890",
+    "patient_id": "PT42594",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJos266",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-06-04",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC890110",
+    "patient_id": "PT42594",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMar207",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-05-01",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC962644",
+    "patient_id": "PT42594",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVPat328",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-10-30",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC523297",
+    "patient_id": "PT38815",
+    "type": "Follow-up",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic597",
+      "name": "Dr. Richard Lee",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-08-07",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2025-08-07",
+    "notes": "Patient presented with Back pain. Examination performed. Diagnosed with Urinary Tract Infection. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC105598",
+    "patient_id": "PT38815",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJos687",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-06-04",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2024-06-04",
+    "notes": "Patient presented with Fatigue. Examination performed. Diagnosed with Sinusitis. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC728954",
+    "patient_id": "PT38815",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSar168",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-09-23",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC357285",
+    "patient_id": "PT75925",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar444",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-01-25",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC308607",
+    "patient_id": "PT75925",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVWil813",
+      "name": "Dr. William Thompson",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-06-01",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC741867",
+    "patient_id": "PT75925",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi671",
+      "name": "Dr. Emily Clark",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-05-01",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC246433",
+    "patient_id": "PT75925",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen152",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-03-06",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC695941",
+    "patient_id": "PT75925",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen587",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-10-16",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-10-16",
+    "notes": "Patient presented with Anxiety. Examination performed. Diagnosed with Asthma. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC616118",
+    "patient_id": "PT25781",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam373",
+      "name": "Dr. James Wilson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-09-14",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-09-14",
+    "notes": "Patient presented with Difficulty sleeping. Examination performed. Diagnosed with Urinary Tract Infection. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC387714",
+    "patient_id": "PT25781",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen699",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-02-06",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC627299",
+    "patient_id": "PT25781",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos864",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-08-16",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC406840",
+    "patient_id": "PT25781",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi814",
+      "name": "Dr. Emily Clark",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-06-22",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC425561",
+    "patient_id": "PT12410",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVEli464",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-08-05",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC962735",
+    "patient_id": "PT12410",
+    "type": "Office Visit",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho940",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2023-12-13",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC583230",
+    "patient_id": "PT30668",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSus482",
+      "name": "Dr. Susan Davis",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-05-07",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC281751",
+    "patient_id": "PT30668",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSar341",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-07-26",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC596330",
+    "patient_id": "PT30668",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVLis592",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-03-14",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC630145",
+    "patient_id": "PT30668",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil173",
+      "name": "Dr. William Thompson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-07-07",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC503607",
+    "patient_id": "PT30668",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen937",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-07-18",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC256412",
+    "patient_id": "PT30668",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil843",
+      "name": "Dr. William Thompson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-08-25",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC544972",
+    "patient_id": "PT30668",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVTho342",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-11-05",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-11-15",
+    "notes": "Patient presented with Rash. Examination performed. Diagnosed with Osteoarthritis. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC862285",
+    "patient_id": "PT30668",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVTho678",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-05-22",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC542460",
+    "patient_id": "PT30668",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam588",
+      "name": "Dr. James Wilson",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-10-07",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2025-10-07",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Hyperlipidemia. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC482191",
+    "patient_id": "PT80510",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus191",
+      "name": "Dr. Susan Davis",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-09-06",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC152361",
+    "patient_id": "PT80510",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVWil764",
+      "name": "Dr. William Thompson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-02-23",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC804930",
+    "patient_id": "PT80510",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMic257",
+      "name": "Dr. Michael Chen",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-05-02",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-05-02",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Acute Upper Respiratory Infection. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC706890",
+    "patient_id": "PT73869",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic157",
+      "name": "Dr. Richard Lee",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-07-09",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC226017",
+    "patient_id": "PT73869",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic202",
+      "name": "Dr. Richard Lee",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-02-05",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC427676",
+    "patient_id": "PT16924",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSar408",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-05-09",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC178338",
+    "patient_id": "PT16924",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic995",
+      "name": "Dr. Richard Lee",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-06-17",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC951662",
+    "patient_id": "PT16924",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic488",
+      "name": "Dr. Michael Chen",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-03-24",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC631838",
+    "patient_id": "PT16924",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMar968",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-06-09",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2025-06-18",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Vitamin D Deficiency. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC306637",
+    "patient_id": "PT36741",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSar845",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-06-27",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC354541",
+    "patient_id": "PT36741",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVPat718",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-09-21",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC137046",
+    "patient_id": "PT36741",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVWil967",
+      "name": "Dr. William Thompson",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2025-03-06",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-03-10",
+    "notes": "Patient presented with Anxiety. Examination performed. Diagnosed with Major Depressive Disorder. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC377810",
+    "patient_id": "PT36741",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi116",
+      "name": "Dr. Emily Clark",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-09-24",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC315581",
+    "patient_id": "PT36741",
+    "type": "Hospital Encounter",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic290",
+      "name": "Dr. Michael Chen",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-08-05",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC479144",
+    "patient_id": "PT36741",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos614",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-02-02",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC159560",
+    "patient_id": "PT36741",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRob985",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-08-26",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC566955",
+    "patient_id": "PT83827",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic270",
+      "name": "Dr. Richard Lee",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-08-22",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC409559",
+    "patient_id": "PT83827",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSar320",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-09-30",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC334653",
+    "patient_id": "PT83827",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav961",
+      "name": "Dr. David Kim",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-02-15",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC773265",
+    "patient_id": "PT83827",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus431",
+      "name": "Dr. Susan Davis",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-08-13",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC638856",
+    "patient_id": "PT83827",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJos623",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-02-07",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2025-02-15",
+    "notes": "Patient presented with Chest pain. Examination performed. Diagnosed with Hyperlipidemia. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC811575",
+    "patient_id": "PT83827",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSus458",
+      "name": "Dr. Susan Davis",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-06-11",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC459724",
+    "patient_id": "PT83827",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRob802",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-02-14",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC830627",
+    "patient_id": "PT83827",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVEmi281",
+      "name": "Dr. Emily Clark",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-09-04",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC431525",
+    "patient_id": "PT83827",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMar679",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-03-14",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC441208",
+    "patient_id": "PT83827",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMar368",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-02-18",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC333078",
+    "patient_id": "PT46602",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic157",
+      "name": "Dr. Richard Lee",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-03-24",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-03-24",
+    "notes": "Patient presented with Sore throat. Examination performed. Diagnosed with Vitamin D Deficiency. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC160345",
+    "patient_id": "PT46602",
+    "type": "Specialist Consult",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSar883",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-01-22",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC365885",
+    "patient_id": "PT62808",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic826",
+      "name": "Dr. Richard Lee",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-06-20",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-06-27",
+    "notes": "Patient presented with Fatigue. Examination performed. Diagnosed with Anxiety Disorder. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC382212",
+    "patient_id": "PT62808",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMic161",
+      "name": "Dr. Michael Chen",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-12-06",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-12-06",
+    "notes": "Patient presented with Rash. Examination performed. Diagnosed with Urinary Tract Infection. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC273139",
+    "patient_id": "PT62808",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob458",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-10-18",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC798588",
+    "patient_id": "PT62808",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVLis883",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-04-10",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC510557",
+    "patient_id": "PT62808",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEmi712",
+      "name": "Dr. Emily Clark",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-11-01",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC293681",
+    "patient_id": "PT62808",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav234",
+      "name": "Dr. David Kim",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-06-20",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2024-06-20",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Acute Upper Respiratory Infection. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC723545",
+    "patient_id": "PT62808",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi738",
+      "name": "Dr. Emily Clark",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-06-08",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC401076",
+    "patient_id": "PT45349",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic431",
+      "name": "Dr. Michael Chen",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-05-16",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC705542",
+    "patient_id": "PT45349",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMar344",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-03-15",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2025-03-23",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Hypertension. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC710096",
+    "patient_id": "PT45349",
+    "type": "Urgent Care",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus391",
+      "name": "Dr. Susan Davis",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-09-08",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC253312",
+    "patient_id": "PT45349",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJos782",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-11-25",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC690830",
+    "patient_id": "PT45349",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEli104",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-07-01",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC380467",
+    "patient_id": "PT45349",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav612",
+      "name": "Dr. David Kim",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-03-12",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC613044",
+    "patient_id": "PT31815",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRob324",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-07-09",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC829539",
+    "patient_id": "PT31815",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVPat237",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-06-05",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC773327",
+    "patient_id": "PT10338",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJam125",
+      "name": "Dr. James Wilson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2023-12-14",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC957506",
+    "patient_id": "PT10338",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMic451",
+      "name": "Dr. Michael Chen",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-01-09",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC901100",
+    "patient_id": "PT42426",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos228",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-08-13",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC879743",
+    "patient_id": "PT24798",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil850",
+      "name": "Dr. William Thompson",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-09-25",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC423002",
+    "patient_id": "PT24798",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho203",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-06-15",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC149764",
+    "patient_id": "PT24798",
+    "type": "Hospital Encounter",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVLis810",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2023-12-26",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC327910",
+    "patient_id": "PT24798",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav352",
+      "name": "Dr. David Kim",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-01-16",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC310481",
+    "patient_id": "PT24798",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic397",
+      "name": "Dr. Richard Lee",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-07-13",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2024-07-15",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Sinusitis. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC639578",
+    "patient_id": "PT24798",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi178",
+      "name": "Dr. Emily Clark",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-04-06",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-04-06",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Migraine. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC599182",
+    "patient_id": "PT53996",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVTho672",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-11-14",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2024-11-14",
+    "notes": "Patient presented with Chest pain. Examination performed. Diagnosed with Acute Upper Respiratory Infection. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC594860",
+    "patient_id": "PT53996",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJam291",
+      "name": "Dr. James Wilson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-08-13",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC254505",
+    "patient_id": "PT53996",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSus151",
+      "name": "Dr. Susan Davis",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-08-06",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC174386",
+    "patient_id": "PT53996",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen175",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-03-30",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC157959",
+    "patient_id": "PT53996",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic367",
+      "name": "Dr. Richard Lee",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2023-11-13",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC585415",
+    "patient_id": "PT53996",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRob330",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2023-11-15",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2023-11-15",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Anxiety Disorder. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC525521",
+    "patient_id": "PT53996",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVEli168",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-10-08",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC934028",
+    "patient_id": "PT53996",
+    "type": "Telehealth",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRob350",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-06-09",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC796534",
+    "patient_id": "PT53996",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi637",
+      "name": "Dr. Emily Clark",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-07-16",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-07-25",
+    "notes": "Patient presented with Sore throat. Examination performed. Diagnosed with Obesity. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC174236",
+    "patient_id": "PT13238",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob365",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-10-23",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC143203",
+    "patient_id": "PT13238",
+    "type": "Office Visit",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav685",
+      "name": "Dr. David Kim",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-04-26",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2024-04-26",
+    "notes": "Patient presented with Fever. Examination performed. Diagnosed with Hyperlipidemia. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC761059",
+    "patient_id": "PT13238",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob210",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2023-11-18",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC722026",
+    "patient_id": "PT13238",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVEmi493",
+      "name": "Dr. Emily Clark",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-05-17",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC978709",
+    "patient_id": "PT13238",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSus629",
+      "name": "Dr. Susan Davis",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2023-11-24",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC950554",
+    "patient_id": "PT13238",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi658",
+      "name": "Dr. Emily Clark",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-08-28",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-08-28",
+    "notes": "Patient presented with Difficulty sleeping. Examination performed. Diagnosed with Asthma. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC798284",
+    "patient_id": "PT13238",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMar674",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-01-26",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2024-01-26",
+    "notes": "Patient presented with Abdominal pain. Examination performed. Diagnosed with Obesity. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC788839",
+    "patient_id": "PT13238",
+    "type": "Follow-up",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic896",
+      "name": "Dr. Richard Lee",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-11-01",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC881995",
+    "patient_id": "PT13238",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav615",
+      "name": "Dr. David Kim",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-02-04",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC985583",
+    "patient_id": "PT13238",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic616",
+      "name": "Dr. Richard Lee",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-10-05",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC220404",
+    "patient_id": "PT43453",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam814",
+      "name": "Dr. James Wilson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-11-23",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-11-29",
+    "notes": "Patient presented with Dizziness. Examination performed. Diagnosed with Vitamin D Deficiency. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC235224",
+    "patient_id": "PT43453",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVWil326",
+      "name": "Dr. William Thompson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-11-27",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2024-12-06",
+    "notes": "Patient presented with Dizziness. Examination performed. Diagnosed with Hyperlipidemia. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC946712",
+    "patient_id": "PT43453",
+    "type": "Follow-up",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMar596",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-01-28",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2025-01-28",
+    "notes": "Patient presented with Headache. Examination performed. Diagnosed with Type 2 Diabetes. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC290947",
+    "patient_id": "PT43453",
+    "type": "Surgery",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi424",
+      "name": "Dr. Emily Clark",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-08-19",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC975573",
+    "patient_id": "PT43453",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos592",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-01-27",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC656338",
+    "patient_id": "PT43453",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVWil463",
+      "name": "Dr. William Thompson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-01-29",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC293718",
+    "patient_id": "PT43453",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic530",
+      "name": "Dr. Michael Chen",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-09-13",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC501741",
+    "patient_id": "PT93794",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSar161",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2023-12-17",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC949490",
+    "patient_id": "PT91975",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVTho721",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-09-17",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC117069",
+    "patient_id": "PT91975",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam864",
+      "name": "Dr. James Wilson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-04-07",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC774232",
+    "patient_id": "PT91975",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic797",
+      "name": "Dr. Richard Lee",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-03-02",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC864621",
+    "patient_id": "PT91975",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVLis420",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-11-13",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2024-11-20",
+    "notes": "Patient presented with Sore throat. Examination performed. Diagnosed with Asthma. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC340072",
+    "patient_id": "PT91975",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic748",
+      "name": "Dr. Richard Lee",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-07-02",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC383707",
+    "patient_id": "PT91975",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJos290",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-09-23",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC765774",
+    "patient_id": "PT95842",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav126",
+      "name": "Dr. David Kim",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2023-12-01",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC745153",
+    "patient_id": "PT95842",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEli641",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-04-25",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC274881",
+    "patient_id": "PT95842",
+    "type": "Hospital Encounter",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVDav431",
+      "name": "Dr. David Kim",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-03-10",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC409196",
+    "patient_id": "PT95842",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar338",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2023-11-28",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC350247",
+    "patient_id": "PT95842",
+    "type": "Follow-up",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi312",
+      "name": "Dr. Emily Clark",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-08-01",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-08-01",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Osteoarthritis. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC253248",
+    "patient_id": "PT95842",
+    "type": "Urgent Care",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVLis608",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2025-02-25",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC725467",
+    "patient_id": "PT95842",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar681",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-11-08",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC777090",
+    "patient_id": "PT95842",
+    "type": "Telehealth",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEli476",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-04-16",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-04-16",
+    "notes": "Patient presented with Headache. Examination performed. Diagnosed with GERD. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC260460",
+    "patient_id": "PT80468",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVPat310",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-04-29",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC985591",
+    "patient_id": "PT80468",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus358",
+      "name": "Dr. Susan Davis",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-04-13",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC721141",
+    "patient_id": "PT80468",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVWil300",
+      "name": "Dr. William Thompson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-05-27",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC264907",
+    "patient_id": "PT80468",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic839",
+      "name": "Dr. Richard Lee",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-09-12",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC715038",
+    "patient_id": "PT80468",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJen507",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-05-17",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC997779",
+    "patient_id": "PT88345",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMic975",
+      "name": "Dr. Michael Chen",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-10-22",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC150455",
+    "patient_id": "PT45057",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSus948",
+      "name": "Dr. Susan Davis",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-03-21",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC849684",
+    "patient_id": "PT45057",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVSar395",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2023-11-15",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC675910",
+    "patient_id": "PT45057",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen199",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-06-05",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC742484",
+    "patient_id": "PT45057",
+    "type": "Telehealth",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVEmi234",
+      "name": "Dr. Emily Clark",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-01-21",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC616856",
+    "patient_id": "PT45057",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil416",
+      "name": "Dr. William Thompson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2023-12-30",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC131706",
+    "patient_id": "PT45057",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav129",
+      "name": "Dr. David Kim",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-08-11",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC394853",
+    "patient_id": "PT45057",
+    "type": "Office Visit",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJos892",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-09-01",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC496782",
+    "patient_id": "PT37590",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVTho272",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-02-07",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-02-07",
+    "notes": "Patient presented with Dizziness. Examination performed. Diagnosed with Migraine. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC984694",
+    "patient_id": "PT71266",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJen160",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-08-14",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC193479",
+    "patient_id": "PT71266",
+    "type": "Office Visit",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic736",
+      "name": "Dr. Richard Lee",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-03-21",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC613895",
+    "patient_id": "PT71266",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav293",
+      "name": "Dr. David Kim",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-11-22",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC496521",
+    "patient_id": "PT71266",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam708",
+      "name": "Dr. James Wilson",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-01-30",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC357116",
+    "patient_id": "PT71266",
+    "type": "Specialist Consult",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJos934",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-01-24",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC614124",
+    "patient_id": "PT71266",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVLis614",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-06-02",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC457102",
+    "patient_id": "PT63365",
+    "type": "Telehealth",
+    "status": "completed",
+    "provider": {
+      "id": "PROVLis100",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-01-08",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-01-08",
+    "notes": "Patient presented with Fatigue. Examination performed. Diagnosed with Major Depressive Disorder. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC123056",
+    "patient_id": "PT63365",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVTho199",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-02-10",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC801739",
+    "patient_id": "PT63365",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMar268",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-04-06",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC887849",
+    "patient_id": "PT63365",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEmi199",
+      "name": "Dr. Emily Clark",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-01-23",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC447875",
+    "patient_id": "PT63365",
+    "type": "Hospital Encounter",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEli543",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2023-12-30",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-01-07",
+    "notes": "Patient presented with Anxiety. Examination performed. Diagnosed with Sinusitis. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC364691",
+    "patient_id": "PT63365",
+    "type": "Office Visit",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic637",
+      "name": "Dr. Michael Chen",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-02-05",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC442572",
+    "patient_id": "PT69715",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos185",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-05-30",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC186794",
+    "patient_id": "PT69715",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob893",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2023-12-31",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC701401",
+    "patient_id": "PT69715",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi774",
+      "name": "Dr. Emily Clark",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-05-25",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2025-05-25",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Asthma. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC434641",
+    "patient_id": "PT69715",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVPat246",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-05-15",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC823680",
+    "patient_id": "PT27765",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMic692",
+      "name": "Dr. Michael Chen",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-08-13",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2024-08-14",
+    "notes": "Patient presented with Rash. Examination performed. Diagnosed with Migraine. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC991199",
+    "patient_id": "PT27765",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMic507",
+      "name": "Dr. Michael Chen",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-03-04",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC960623",
+    "patient_id": "PT27765",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen461",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-01-04",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2025-01-04",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Asthma. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC430738",
+    "patient_id": "PT27765",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJen271",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-06-30",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC728820",
+    "patient_id": "PT27765",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen715",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-05-16",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2025-05-16",
+    "notes": "Patient presented with Joint pain. Examination performed. Diagnosed with Major Depressive Disorder. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC966095",
+    "patient_id": "PT27765",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMar913",
+      "name": "Dr. Maria Rodriguez",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-08-19",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC520248",
+    "patient_id": "PT27765",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob603",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-02-17",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC315728",
+    "patient_id": "PT27765",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob647",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-01-05",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC594002",
+    "patient_id": "PT27765",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVTho946",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2023-12-28",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC980109",
+    "patient_id": "PT27765",
+    "type": "Urgent Care",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMic727",
+      "name": "Dr. Michael Chen",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2023-12-27",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC444650",
+    "patient_id": "PT80492",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSar660",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-03-07",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC314805",
+    "patient_id": "PT80492",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav110",
+      "name": "Dr. David Kim",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-10-31",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC119834",
+    "patient_id": "PT80492",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi938",
+      "name": "Dr. Emily Clark",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-11-02",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC735693",
+    "patient_id": "PT80492",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus337",
+      "name": "Dr. Susan Davis",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-08-05",
+    "chief_complaint": "Back pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC911759",
+    "patient_id": "PT80492",
+    "type": "Follow-up",
+    "status": "completed",
+    "provider": {
+      "id": "PROVTho595",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-09-23",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2024-09-23",
+    "notes": "Patient presented with Difficulty sleeping. Examination performed. Diagnosed with Asthma. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC441895",
+    "patient_id": "PT80492",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMic655",
+      "name": "Dr. Michael Chen",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-02-12",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2025-02-13",
+    "notes": "Patient presented with Headache. Examination performed. Diagnosed with GERD. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC942664",
+    "patient_id": "PT80492",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVTho282",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-07-30",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC404496",
+    "patient_id": "PT80492",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSar382",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-11-04",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC683725",
+    "patient_id": "PT80492",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic348",
+      "name": "Dr. Richard Lee",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-02-08",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC667472",
+    "patient_id": "PT95831",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEli663",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-11-23",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC538698",
+    "patient_id": "PT95831",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam609",
+      "name": "Dr. James Wilson",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2023-12-24",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC128639",
+    "patient_id": "PT95831",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEmi669",
+      "name": "Dr. Emily Clark",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-03-17",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-03-17",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Type 2 Diabetes. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC163292",
+    "patient_id": "PT95831",
+    "type": "Urgent Care",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVEmi469",
+      "name": "Dr. Emily Clark",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-02-17",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC165667",
+    "patient_id": "PT95831",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam867",
+      "name": "Dr. James Wilson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-03-31",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC535354",
+    "patient_id": "PT22627",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJen147",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-11-01",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC560305",
+    "patient_id": "PT22627",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic921",
+      "name": "Dr. Richard Lee",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2023-12-24",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC187214",
+    "patient_id": "PT22627",
+    "type": "Telehealth",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen926",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-08-30",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2024-08-30",
+    "notes": "Patient presented with Chest pain. Examination performed. Diagnosed with Asthma. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC502165",
+    "patient_id": "PT22627",
+    "type": "Surgery",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho998",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2023-12-15",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC102359",
+    "patient_id": "PT22627",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic616",
+      "name": "Dr. Richard Lee",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-03-23",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC217396",
+    "patient_id": "PT22627",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVWil422",
+      "name": "Dr. William Thompson",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-03-01",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC601884",
+    "patient_id": "PT22627",
+    "type": "Urgent Care",
+    "status": "completed",
+    "provider": {
+      "id": "PROVPat976",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-02-11",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2025-02-11",
+    "notes": "Patient presented with Fatigue. Examination performed. Diagnosed with Vitamin D Deficiency. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC415398",
+    "patient_id": "PT22627",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMic125",
+      "name": "Dr. Michael Chen",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-05-25",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC346860",
+    "patient_id": "PT22627",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVJam101",
+      "name": "Dr. James Wilson",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-08-26",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC554048",
+    "patient_id": "PT22627",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJam355",
+      "name": "Dr. James Wilson",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-01-27",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC484788",
+    "patient_id": "PT92120",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVLis811",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-06-29",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC747407",
+    "patient_id": "PT92120",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVPat499",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2024-03-09",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC509866",
+    "patient_id": "PT92120",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMic703",
+      "name": "Dr. Michael Chen",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-03-03",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC404429",
+    "patient_id": "PT92120",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVWil565",
+      "name": "Dr. William Thompson",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-06-21",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC304751",
+    "patient_id": "PT92120",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen725",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-04-05",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2024-04-05",
+    "notes": "Patient presented with Headache. Examination performed. Diagnosed with Anxiety Disorder. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC593595",
+    "patient_id": "PT92120",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav525",
+      "name": "Dr. David Kim",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-10-11",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC475888",
+    "patient_id": "PT92120",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVPat232",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-06-28",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-06-28",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Major Depressive Disorder. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC469142",
+    "patient_id": "PT82524",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVMic409",
+      "name": "Dr. Michael Chen",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-09-07",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC426089",
+    "patient_id": "PT82524",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho503",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2025-03-25",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC361510",
+    "patient_id": "PT82524",
+    "type": "Specialist Consult",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVTho838",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-10-04",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC752837",
+    "patient_id": "PT82524",
+    "type": "Emergency",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus946",
+      "name": "Dr. Susan Davis",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-05-29",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC784397",
+    "patient_id": "PT96463",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus183",
+      "name": "Dr. Susan Davis",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-12-22",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC291491",
+    "patient_id": "PT30991",
+    "type": "Telehealth",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJen148",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-12-03",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC577472",
+    "patient_id": "PT30991",
+    "type": "Follow-up",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRic215",
+      "name": "Dr. Richard Lee",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-06-15",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC766290",
+    "patient_id": "PT30991",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar602",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-03-01",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC255542",
+    "patient_id": "PT30991",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVPat387",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-01-19",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC830856",
+    "patient_id": "PT30991",
+    "type": "Hospital Encounter",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSus263",
+      "name": "Dr. Susan Davis",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-08-29",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC189000",
+    "patient_id": "PT41937",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVDav721",
+      "name": "Dr. David Kim",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2023-11-10",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC975981",
+    "patient_id": "PT41937",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos672",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-02-26",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC806174",
+    "patient_id": "PT41937",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam241",
+      "name": "Dr. James Wilson",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-09-27",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-10-03",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Asthma. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC985084",
+    "patient_id": "PT41937",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRob279",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-08-09",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC127900",
+    "patient_id": "PT41937",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVMic456",
+      "name": "Dr. Michael Chen",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2025-03-16",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC381145",
+    "patient_id": "PT41937",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJen253",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2025-02-01",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2025-02-01",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Hyperlipidemia. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC658923",
+    "patient_id": "PT41937",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVWil152",
+      "name": "Dr. William Thompson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2023-11-08",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2023-11-08",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Vitamin D Deficiency. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC802945",
+    "patient_id": "PT41937",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVMic100",
+      "name": "Dr. Michael Chen",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2024-06-16",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC267308",
+    "patient_id": "PT41937",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEli469",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-10-02",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC684317",
+    "patient_id": "PT74300",
+    "type": "Office Visit",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVWil757",
+      "name": "Dr. William Thompson",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-04-16",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC182154",
+    "patient_id": "PT74300",
+    "type": "Follow-up",
+    "status": "completed",
+    "provider": {
+      "id": "PROVPat752",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-10-24",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-10-24",
+    "notes": "Patient presented with Difficulty sleeping. Examination performed. Diagnosed with Low Back Pain. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC845258",
+    "patient_id": "PT24926",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav577",
+      "name": "Dr. David Kim",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-10-02",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC510911",
+    "patient_id": "PT24926",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRob401",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2024-05-16",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC560396",
+    "patient_id": "PT34701",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav546",
+      "name": "Dr. David Kim",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2024-06-10",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC589980",
+    "patient_id": "PT34701",
+    "type": "Office Visit",
+    "status": "completed",
+    "provider": {
+      "id": "PROVMic864",
+      "name": "Dr. Michael Chen",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2025-07-03",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic",
+    "discharge_date": "2025-07-03",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Major Depressive Disorder. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC831338",
+    "patient_id": "PT34701",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic763",
+      "name": "Dr. Richard Lee",
+      "specialty": "Endocrinology"
+    },
+    "encounter_date": "2025-10-20",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-10-20",
+    "notes": "Patient presented with Cough. Examination performed. Diagnosed with Vitamin D Deficiency. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC243423",
+    "patient_id": "PT34701",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho314",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-03-27",
+    "chief_complaint": "Cough",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC181195",
+    "patient_id": "PT34701",
+    "type": "Hospital Encounter",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus840",
+      "name": "Dr. Susan Davis",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-10-06",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC334070",
+    "patient_id": "PT34701",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVSus771",
+      "name": "Dr. Susan Davis",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-10-14",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic",
+    "discharge_date": "2024-10-18",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Type 2 Diabetes. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC256796",
+    "patient_id": "PT34701",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic768",
+      "name": "Dr. Richard Lee",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-07-11",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC591292",
+    "patient_id": "PT34701",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVJam422",
+      "name": "Dr. James Wilson",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-03-18",
+    "chief_complaint": "Fatigue",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC240619",
+    "patient_id": "PT34701",
+    "type": "Surgery",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam362",
+      "name": "Dr. James Wilson",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-07-28",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2025-08-07",
+    "notes": "Patient presented with Rash. Examination performed. Diagnosed with Hyperlipidemia. Patient counseled on lifestyle modifications."
+  },
+  {
+    "encounter_id": "ENC580865",
+    "patient_id": "PT34701",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav273",
+      "name": "Dr. David Kim",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2025-06-04",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-06-10",
+    "notes": "Patient presented with Abdominal pain. Examination performed. Diagnosed with Obesity. Referral to specialist recommended."
+  },
+  {
+    "encounter_id": "ENC634537",
+    "patient_id": "PT15019",
+    "type": "Emergency",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSar313",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-08-07",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC893201",
+    "patient_id": "PT15019",
+    "type": "Specialist Consult",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVWil200",
+      "name": "Dr. William Thompson",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-07-20",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Major Depressive Disorder",
+        "code": "F32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC491364",
+    "patient_id": "PT15019",
+    "type": "Emergency",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho393",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-04-24",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC265320",
+    "patient_id": "PT15019",
+    "type": "Follow-up",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRic859",
+      "name": "Dr. Richard Lee",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-04-28",
+    "chief_complaint": "Sore throat",
+    "diagnoses": [
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC841249",
+    "patient_id": "PT15019",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVLis934",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Pediatrics"
+    },
+    "encounter_date": "2024-01-24",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC487147",
+    "patient_id": "PT15019",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic256",
+      "name": "Dr. Richard Lee",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-12-26",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC600725",
+    "patient_id": "PT15019",
+    "type": "Specialist Consult",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVLis943",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-08-16",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Acute Upper Respiratory Infection",
+        "code": "J06.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC509513",
+    "patient_id": "PT15019",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVRob906",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    "encounter_date": "2024-06-20",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC111709",
+    "patient_id": "PT28014",
+    "type": "Wellness Exam",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi158",
+      "name": "Dr. Emily Clark",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-10-24",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC731398",
+    "patient_id": "PT28014",
+    "type": "Wellness Exam",
+    "status": "completed",
+    "provider": {
+      "id": "PROVEli948",
+      "name": "Dr. Elizabeth Taylor",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2024-11-14",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus",
+    "discharge_date": "2024-11-14",
+    "notes": "Patient presented with Difficulty sleeping. Examination performed. Diagnosed with Urinary Tract Infection. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC354281",
+    "patient_id": "PT28014",
+    "type": "Urgent Care",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVRob789",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2025-01-06",
+    "chief_complaint": "Joint pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC562721",
+    "patient_id": "PT28014",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVLis954",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-07-24",
+    "chief_complaint": "Shortness of breath",
+    "diagnoses": [
+      {
+        "diagnosis": "Migraine",
+        "code": "G43.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-07-24",
+    "notes": "Patient presented with Shortness of breath. Examination performed. Diagnosed with Migraine. Condition improved with treatment."
+  },
+  {
+    "encounter_id": "ENC785228",
+    "patient_id": "PT28014",
+    "type": "Office Visit",
+    "status": "completed",
+    "provider": {
+      "id": "PROVRic537",
+      "name": "Dr. Richard Lee",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2024-01-18",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth",
+    "discharge_date": "2024-01-18",
+    "notes": "Patient presented with Anxiety. Examination performed. Diagnosed with Hyperlipidemia. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC618200",
+    "patient_id": "PT39273",
+    "type": "Wellness Exam",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVTho773",
+      "name": "Dr. Thomas Anderson",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2024-01-16",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Anxiety Disorder",
+        "code": "F41.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC977075",
+    "patient_id": "PT39273",
+    "type": "Follow-up",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVEmi996",
+      "name": "Dr. Emily Clark",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-09-18",
+    "chief_complaint": "Headache",
+    "diagnoses": [
+      {
+        "diagnosis": "Vitamin D Deficiency",
+        "code": "E55.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC218592",
+    "patient_id": "PT39273",
+    "type": "Emergency",
+    "status": "completed",
+    "provider": {
+      "id": "PROVDav689",
+      "name": "Dr. David Kim",
+      "specialty": "Orthopedics"
+    },
+    "encounter_date": "2024-01-18",
+    "chief_complaint": "Anxiety",
+    "diagnoses": [
+      {
+        "diagnosis": "Sinusitis",
+        "code": "J32.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing",
+    "discharge_date": "2024-01-18",
+    "notes": "Patient presented with Anxiety. Examination performed. Diagnosed with Sinusitis. Prescription provided. Follow up as needed."
+  },
+  {
+    "encounter_id": "ENC686811",
+    "patient_id": "PT39273",
+    "type": "Surgery",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVPat109",
+      "name": "Dr. Patricia Scott",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-01-23",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC960727",
+    "patient_id": "PT39273",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVLis761",
+      "name": "Dr. Lisa Brown",
+      "specialty": "Nephrology"
+    },
+    "encounter_date": "2025-04-18",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC494185",
+    "patient_id": "PT39273",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVRic329",
+      "name": "Dr. Richard Lee",
+      "specialty": "Cardiology"
+    },
+    "encounter_date": "2025-03-24",
+    "chief_complaint": "Nausea",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC582852",
+    "patient_id": "PT39273",
+    "type": "Office Visit",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJen762",
+      "name": "Dr. Jennifer Martinez",
+      "specialty": "Family Medicine"
+    },
+    "encounter_date": "2025-07-28",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "code": "M19.90",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC766506",
+    "patient_id": "PT39273",
+    "type": "Telehealth",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVWil129",
+      "name": "Dr. William Thompson",
+      "specialty": "Neurology"
+    },
+    "encounter_date": "2025-04-09",
+    "chief_complaint": "Fever",
+    "diagnoses": [
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "North Clinic"
+  },
+  {
+    "encounter_id": "ENC936130",
+    "patient_id": "PT39273",
+    "type": "Wellness Exam",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav506",
+      "name": "Dr. David Kim",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2024-07-26",
+    "chief_complaint": "Abdominal pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Asthma",
+        "code": "J45.909",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "GERD",
+        "code": "K21.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "South Clinic"
+  },
+  {
+    "encounter_id": "ENC803154",
+    "patient_id": "PT27692",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVDav887",
+      "name": "Dr. David Kim",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2025-07-18",
+    "chief_complaint": "Rash",
+    "diagnoses": [
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing"
+  },
+  {
+    "encounter_id": "ENC941757",
+    "patient_id": "PT27692",
+    "type": "Specialist Consult",
+    "status": "completed",
+    "provider": {
+      "id": "PROVJam310",
+      "name": "Dr. James Wilson",
+      "specialty": "Dermatology"
+    },
+    "encounter_date": "2025-04-16",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "East Wing",
+    "discharge_date": "2025-04-16",
+    "notes": "Patient presented with Dizziness. Examination performed. Diagnosed with Urinary Tract Infection. Patient advised to follow up in 2 weeks."
+  },
+  {
+    "encounter_id": "ENC869825",
+    "patient_id": "PT27692",
+    "type": "Urgent Care",
+    "status": "in-progress",
+    "provider": {
+      "id": "PROVSus820",
+      "name": "Dr. Susan Davis",
+      "specialty": "Internal Medicine"
+    },
+    "encounter_date": "2025-04-02",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hyperlipidemia",
+        "code": "E78.5",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "West Wing"
+  },
+  {
+    "encounter_id": "ENC825528",
+    "patient_id": "PT27692",
+    "type": "Surgery",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVSus421",
+      "name": "Dr. Susan Davis",
+      "specialty": "Psychiatry"
+    },
+    "encounter_date": "2025-07-01",
+    "chief_complaint": "Chest pain",
+    "diagnoses": [
+      {
+        "diagnosis": "Hypertension",
+        "code": "I10",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Low Back Pain",
+        "code": "M54.5",
+        "type": "ICD-10"
+      },
+      {
+        "diagnosis": "Obesity",
+        "code": "E66.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Telehealth"
+  },
+  {
+    "encounter_id": "ENC453534",
+    "patient_id": "PT27692",
+    "type": "Follow-up",
+    "status": "entered-in-error",
+    "provider": {
+      "id": "PROVJos467",
+      "name": "Dr. Joseph Wright",
+      "specialty": "Oncology"
+    },
+    "encounter_date": "2024-11-03",
+    "chief_complaint": "Difficulty sleeping",
+    "diagnoses": [
+      {
+        "diagnosis": "Urinary Tract Infection",
+        "code": "N39.0",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  },
+  {
+    "encounter_id": "ENC792929",
+    "patient_id": "PT27692",
+    "type": "Office Visit",
+    "status": "cancelled",
+    "provider": {
+      "id": "PROVDav298",
+      "name": "Dr. David Kim",
+      "specialty": "Gastroenterology"
+    },
+    "encounter_date": "2024-07-02",
+    "chief_complaint": "Dizziness",
+    "diagnoses": [
+      {
+        "diagnosis": "Type 2 Diabetes",
+        "code": "E11.9",
+        "type": "ICD-10"
+      }
+    ],
+    "location": "Main Campus"
+  }
+]

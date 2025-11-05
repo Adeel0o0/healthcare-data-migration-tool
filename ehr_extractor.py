@@ -2,7 +2,7 @@
 """
 Legacy EHR Data Extractor
 
-This script connects to a legacy EHR (Electronic Health Record) system, extracts patient data, and prepares it for 
+This script connects to a legacy EHR (Electronic Health) system, extracts patient data, and prepares it for 
 transformation to FHIR format. It handles pagination, batch processing, and error recovery
 to ensure reliable extraction of large datasets.
 

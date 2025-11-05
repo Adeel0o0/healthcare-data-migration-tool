@@ -1,0 +1,13 @@
+2025-11-05 23:09:50,780 - fhir_transformer - INFO - Created output directory: ./fhir_data
+2025-11-05 23:09:50,780 - fhir_transformer - INFO - Starting transformation of all data to FHIR format
+2025-11-05 23:09:50,781 - fhir_transformer - INFO - Loaded 50 patients from ./extracted_data/patients.json
+2025-11-05 23:09:50,782 - fhir_transformer - INFO - Loaded 275 encounters from ./extracted_data/encounters.json
+2025-11-05 23:09:50,784 - fhir_transformer - INFO - Loaded 731 observations from ./extracted_data/observations.json
+2025-11-05 23:09:50,785 - fhir_transformer - INFO - Loaded 403 medications from ./extracted_data/medications.json
+2025-11-05 23:09:50,798 - fhir_transformer - INFO - Transformed 50 patients, 275 encounters, 1355 observations, and 403 medication requests
+2025-11-05 23:09:50,802 - fhir_transformer - INFO - Saved 50 Patient resources to ./fhir_data/Patient.json
+2025-11-05 23:09:50,819 - fhir_transformer - INFO - Saved 275 Encounter resources to ./fhir_data/Encounter.json
+2025-11-05 23:09:50,880 - fhir_transformer - INFO - Saved 1355 Observation resources to ./fhir_data/Observation.json
+2025-11-05 23:09:50,894 - fhir_transformer - INFO - Saved 403 MedicationRequest resources to ./fhir_data/MedicationRequest.json
+2025-11-05 23:09:51,003 - fhir_transformer - INFO - Saved FHIR Bundle to ./fhir_data/bundle.json
+2025-11-05 23:09:51,003 - fhir_transformer - INFO - Transformation completed successfully

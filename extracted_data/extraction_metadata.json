@@ -1,0 +1,10 @@
+{
+  "extraction_time": "2025-11-05T23:09:15.925742",
+  "source_system": "file",
+  "entity_counts": {
+    "patients": 50,
+    "encounters": 275,
+    "observations": 731,
+    "medications": 403
+  }
+}
